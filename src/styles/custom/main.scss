@@ -1,0 +1,54 @@
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+
+.custom-container {
+    background-color: white;
+    width: 100%;
+}
+
+body {
+    background-color: white;
+}
+
+/* buttons */
+
+.border-white {
+    border-color: white;
+    border-width: 1px;
+}
+
+.border-yellow {
+    border-color: #fd7a46;
+    border-width: 1px;
+}
+
+.yellow-color {
+    color: #fd7a46;
+}
+
+.gray-color {
+    color: #888888;
+}
+
+.queue-animate-container {
+    height: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .hide-search-on-mobile {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .hide-menu-controls-on-mobile {
+        display: none !important;
+    }
+}

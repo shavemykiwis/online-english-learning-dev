@@ -1,0 +1,154 @@
+{
+    "students": "学生",
+    "teachers": "老师",
+    "login": "登录",
+    "signup": "注册",
+    "get_on_ios": "获取IOS版本应用",
+    "get_on_android": "获取ANDROID应用",
+    "welcome.full_chinese_is_the_fastest": "FullEnglish是最快的",
+    "welcome.way": " ",
+    "welcome.to_learn_chinese": "学习英文的方式",
+    "welcome.get_on_ios": "IOS应用",
+    "welcome.get_on_android": "ANDROID应用",
+    "welcome.it_s_not_just_how_much_you_know_it_s_also_how_fast_you":
+        "不仅仅是学的多好，更重要的是学的多快",
+    "welcome.become_a_super_fast": "成为一个超级快速的",
+    "black_belt": "黑带",
+    "welcome.learner": "学习者",
+    "welcome.most_students_spend_years_learning_painfully_and_slowly_we_teach_you_the_skills_to_make":
+        "很多同学花很多的时间学的非常痛苦，进展也非常慢，我们教给大家快速学习的技巧",
+    "welcome.learning_much_faster_and_fun_it_takes_a_little_bit_of_time_but_you_will_see_results_the_first":
+        "可以学的更快，而且更有趣！刚开始需要一点耐心，但是一礼拜就可以看到成果",
+    "welcome.week_if_you_accept_to_master_learning_skills_one_stp_at_a_time":
+        "只要按照步骤循序渐进的坚持",
+    "white_belt": "白带",
+    "welcome.this_is_most_people_starting_point": "绝大多数人开始的起点",
+    "welcome.you_have_the_desire_maybe_some_experience_but_you_just_follow_instructions":
+        "白带是绝大多数人的起点。 你有学习的渴望，甚至有了一些学习的体验，但仅仅只能跟随学习",
+    "welcome.unfortunately_a_majority_of_students_in_language_stay_at_that_point_for_a_very_very_long_time":
+        "大多数学生在这一阶段需要停留相当长的一段时期。",
+    "yellow_belt": "黄带",
+    "welcome.you_master_the_basic_study_habit_of_learning_and_retaining_new_material":
+        "黄带阶段，你已经掌握了基本的学习习惯，开始不断学习新的资料。",
+    "welcome.this_is_the_most_important_skillset": "这是最为重要的技能",
+    "You": "你",
+    "welcome.will_see_progress_immediately_and_you_will_never_forget_it":
+        "将立即看到效果并且永远也不会忘记",
+    "orange_belt": "橙带",
+    "welcome.you_can_now_master_skills_that_allow_you_to_navigate_efficiently_between_sound_and_text":
+        "你将掌握如何高效的在声音和文本学习中翱翔",
+    "green_belt": "绿带",
+    "welcome.you_will_master_how_to_learn_a_technique_that_allows_you_to_learn":
+        "你将掌握记住并能够使用新词汇的技巧",
+    "welcome.retain_new_words_such_that_you_can_reuse": "有效的记住并能够实际的使用这些词汇",
+    "welcome.them_in_real_time": " ",
+    "blue_belt": "蓝带",
+    "welcome.you_will_master_how_to_absorb_massive_reading_material_for_fun":
+        "你将掌握如何轻松有趣的消化大量的阅读材料",
+    "welcome.the_skill_can_speed_up_your_initial_learning_speed":
+        "这一技巧可以迅速的提供学习效率",
+    "welcome.but_also_bring_you_to_full_literacy": "并且能够完全理解文章的含义",
+    "welcome.because_you_understand_all_the_learning_skills":
+        "因为你已经掌握了所有的学习技巧",
+    "welcome.you_can_combine_them_in_a_way_that_s_most_effective_for_you":
+        "你可以综合使用来适应你自己的学习状况",
+    "welcome.however_you_cannot_skip_to_that_step_you_have_to_master_the_other_skills_first_otherwise_it_will_have_no_value_for":
+        "但是，你不能跳过这一阶段，否则，没有这些技巧，对你的学习将造成很大的阻碍",
+    "you": "你",
+    "welcome.watch_video": "观看视频",
+    "welcome.learn_more_about_the_belt_system": "了解更多学习分带体系",
+    "welcome.the_core_of_the_fullchinese": "FullEnglish的核心",
+    "welcome.method": "方法",
+    "welcome.get_started": "开始",
+    "welcome.2018_full_chinese": "@2018 Full English",
+    "welcome.comment1":
+        "FullEnglish 会让你一直在课堂里学习一样，不断的学习新的词和语法点。",
+    "welcome.comment2":
+        "然而，不仅仅是停留在课文的表面含义上，痛苦的记忆（忘记）新的词， ",
+    "welcome.comment3":
+        "你可以完全理解整篇文本的含义, 不仅仅是记住新的词，而是让这些词汇变成你自己的一部分.",
+    "welcome.comment4":
+        "大多数其他的学习软件通常都跳过了初学者的阶段. 这一阶段通常有很长的一段时期",
+    "welcome.comment5":
+        "负面影响：因为很长一段时间都无法提升自己语言水平到更高一个级别，会增加放弃学习的风险",
+    "welcome.comment6":
+        "FullEnglish的目标是希望能够引导你从初学者一路到高级的学习者阶段。",
+    "login.welcome_login_to_fullchinese": "欢迎! 登录到FullEnglish",
+    "username": "用户名",
+    "password": "密码",
+    "email": "Email",
+    "remember_me": "记住我",
+    "as_teacher": "老师",
+    "forgot_password": "忘记密码",
+    "terms_of_use_privacy_policy": "使用条款和隐私政策",
+    "i_agree_with_terms_and_conditions": "我同意上述条款",
+    "app_name": "FullEnglish",
+    "signup.join": "加入",
+    "signup.the_best_way_to_learn_chinese": "The best way to learn Chinese",
+    "signup.create_an_account": "创建账号",
+    "signup.welcome_to": "欢迎",
+    "@username": "@username",
+    "signup.you_ve_taken_your_first_step_into_a_larger_world":
+        "你已经迈出了无垠学习空间的第一步",
+    "signup.unlimited_public_repositories_for_free": "海量的免费公共学习资源",
+    "signup.unlimited_private_repositories_for_7_month":
+        "海量的私有学习资源仅 $7/月",
+    "signup.don_t_worry_you_can_cancel_or_upgrade_at_any_time":
+        "可以在任何时间取消或者升级",
+    "signup.send_me_updates_on_fullchinese_news_and_events":
+        "可以给我发送FullEnglish的新闻和优惠活动",
+    "signup.unsubscribe_anytime_in_your_email_preferences":
+        "unsubscribe anytime in your email preferences",
+    "signup.learn_more": "了解更多",
+    "continue": "继续",
+    "signup.you_ll_find_endless_opportunity_to_learn_code":
+        "你将会发现无穷无尽的学习机遇",
+    "signup.and_create": "同时创建",
+    "signup.how_wold_you_describe_your_level": "你觉得自己的语言水平属于？",
+    "signup.beginner": "初学者",
+    "signup.high_intermediate": "初级",
+    "signup.low_intermediate": "中级",
+    "signup.advanced": "高级",
+    "signup.how_long_have_you_been_studying_chinese": "你学习英文有多长时间了?",
+    "signup.just_started": "刚刚开始",
+    "signup.two_years": "两年",
+    "signup.less_than_six_months": "少于六个月",
+    "signup.more_than_three_years": "超过三年",
+    "signup.one_year": "一年",
+    "signup.more_than_ten_years": "超过十年",
+    "signup.why_are_you_studying_chinese": "学习英文的目标是什么?",
+    "signup.for_fun": "兴趣",
+    "signup.travel": "旅游",
+    "signup.studying_at_school": "学业",
+    "signup.work": "工作",
+    "signup.love": "热爱",
+    "signup.other": "其他",
+    "signup.eg_fullchinese_app_is_making_learning_chinese_very_and_fun":
+        "例如FullEnglish让学习英文更有乐趣",
+    "signup.about_you_and_what_you_are_most_interesting_in_learning":
+        "关于你和学习英文中最感兴趣的事情",
+    "signup.submit": "提交",
+    "classes": "班级",
+    "description": "描述",
+    "texts": "文章",
+    "books": "书籍",
+    "members": "学生",
+    "notebooks": "笔记本",
+    "decks": "记忆卡片",
+    "dictionary": "词典",
+    "store": "商店",
+    "sentences": "句子",
+    "form.all_fields_are_required": "All Fields are Required",
+    "texts.texts": "Texts",
+    "More": "更多",
+    "Back": "返回",
+    "Definition": "定义",
+    "dictionary.entry.words_containing": "Words containing",
+    "new_class": "创建课程",
+    "delete_class": "删除课程",
+    "cancel": "取消",
+    "confirm": "确定",
+    "class_name": "课程名称",
+    "class_description": "课程描述",
+    "add_books": "添加书籍"
+}

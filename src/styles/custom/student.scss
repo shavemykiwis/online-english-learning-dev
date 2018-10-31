@@ -1,0 +1,51 @@
+.appboard-one-item-container {
+    transition: 0.5s;
+    // cursor: pointer;
+    padding-left: 5px;
+    padding-right: 5px;
+    &:hover {
+        background-color: rgba($color: #000000, $alpha: 0.1);
+    }
+}
+
+.main-page-header-img-selected {
+    width: 100%;
+    cursor: pointer;
+}
+
+.main-page-header-img {
+    width: 80%;
+    transition: 0.2s;
+    cursor: pointer;
+    &:hover {
+        width: 90%;
+    }
+}
+
+.normal-cursor-pointer {
+    cursor: pointer;
+}
+
+.texts-html-body-content {
+    font-size: 14px;
+    color: #2a2a2a;
+}
+
+.texts-html-body-word {
+    color: #fa694b;
+    cursor: pointer;
+    padding: 1px;
+}
+
+.texts-html-body-word-selected {
+    background-color: #fa694b;
+    color: white;
+    padding: 1px;
+}
+
+.navigation-button {
+    transition: 0.5s;
+    &:hover {
+        background-color: #cccccc;
+    }
+}
